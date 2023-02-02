@@ -1,0 +1,36 @@
+{
+    "name": "@ivoyant/component-bulk-rsa",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "title": "BulkRsa",
+    "description": "",
+    "icon": "icon.png",
+    "scripts": {
+        "start": "ist s",
+        "build": "ist b",
+        "storybook": "ist storybook",
+        "prepublish": "ist b -u"
+    },
+    "files": [
+        "dist",
+        "icon.png"
+    ],
+    "author": "",
+    "license": "",
+    "peerDependencies": {
+        "react": "^18.2.0"
+    },
+    "dependencies": {
+        "@ivoyant/component-cache": "^1.0.0",
+        "@ivoyant/component-message-bus": "^1.0.0",
+        "@storybook/react": "^6.5.15",
+        "moment": "^2.24.0",
+        "read-excel-file": "^5.2.28",
+        "xlsx": "^0.18.3"
+    },
+    "devDependencies": {
+        "@ivoyant/cli": "1.1.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}

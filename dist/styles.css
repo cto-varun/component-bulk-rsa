@@ -1,0 +1,166 @@
+.text-green {
+    color: #389e0d;
+}
+
+.text-gray {
+    color: #8c8c8c;
+}
+
+.font-weight-bold {
+    font-weight: 600;
+}
+
+.font-weight-normal {
+    font-weight: 400;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.font-15 {
+    font-size: 16px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+.padding-6
+{
+    padding: 6px;
+}
+
+.primary-color
+{
+    color:#52C41A;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+.make-request-button .ant-btn .ant-btn-sm
+{
+    color:white;
+    margin-right: 5px;
+}
+.title-upload-ctn
+{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.intruction{
+    font-size: 13px;
+    font-weight: 400;
+}
+.avatar-uploader > .ant-upload {
+    width: 386px;
+    height: 60px
+  }
+
+.upload-icon
+{
+    background: none;
+    /* border-radius: 24px; */
+    border: none;
+    font-size: 12px;
+    width: 24px;
+    height: 24px;
+    margin-left: 2px;
+}
+
+.ctn-response-list
+{
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.uplaod-btn-text
+{
+    color: #52C41B;
+    margin-right: 6px;
+}
+.cancel-button
+{
+    background-color: #F0F0F0;
+    color: #8C8C8C;
+    border: none;
+    font-size: 13px;
+    padding: 2px 10px;
+}
+
+.make-request-button
+{
+    border: none;
+    font-size: 13px;
+    padding: 2px 10px;
+    color: white;
+    margin-right: 5px;
+    background-color: #52C41B;
+}
+.error-message
+{
+    font-size: 13px;
+    color: red;
+    border: 1px dashed red;
+    padding: 5px;
+    background-color: #fff7f7;
+}
+.failed-request
+{
+    color:#FF4D4F;
+}
+.success-count-text
+{
+    color:#52C41A;
+}
+.upload-wrapper
+{
+    display: flex;
+    justify-content: center;
+}
+.file-info-container
+{
+    background-color: #F9F8F7;
+    padding:6px;
+}
+.loding-icon
+{
+    color: #52c41b;
+    margin-left: 4px;
+}
+.reason-text
+{
+    color: #FF4D4F;
+}
+.retry-loading-icon
+{
+    color:white;
+    margin-right: 4px;
+}
